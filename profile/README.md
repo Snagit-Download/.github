@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <p align="center"> 
-  <img src="https://img.apponic.com/107/186/45ff31ba07d859f00e7b1c2c23a76c30.png" alt="Snagit Banner" width="100%" />
+  <img src="https://img.apponic.com/107/186/45ff31ba07d859f00e7b1c2c23a76c30.png" alt="Snagit Banner" width="20%" />
 </p>
 
 <h1 align="center">📸 Snagit Unlock Tool</h1>
